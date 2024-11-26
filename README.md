@@ -1,0 +1,1 @@
+this is basic cicd pipeline app
